@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Banaka Yapa
-this is new branch
+
 <!--
 **BanakaYapa/BanakaYapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
