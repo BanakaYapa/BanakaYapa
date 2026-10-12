@@ -1,4 +1,4 @@
-##👋Hi, I'm Banaka Yapa
+👋Hi, I'm Banaka Yapa
 
 <!--
 **BanakaYapa/BanakaYapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
