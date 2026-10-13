@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Banaka Yapa
  
-### 🚀 Associate Software Engineer | Backend & DevOps Enthusiast
+### 🚀 Associate Software Engineer | Full Stack Developer
 
 <!--
 **BanakaYapa/BanakaYapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
