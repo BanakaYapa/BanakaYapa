@@ -1,4 +1,6 @@
-👋Hi, I'm Banaka Yapa
+# 👋 Hi, I'm Janith Ranasinghe
+ 
+### 🚀 Associate Software Engineer | Backend & DevOps Enthusiast
 
 <!--
 **BanakaYapa/BanakaYapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
