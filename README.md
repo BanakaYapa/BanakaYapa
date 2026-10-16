@@ -14,9 +14,17 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
+👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=ts,js,py&theme=dark" alt="ts,js,py"/>
+⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="nodejs,express"/>
 
-* **Languages:** TypeScript, JavaScript, Python
-* **Backend & Frameworks:** Node.js, Frappe Framework, Express.js, REST APIs
-* **Databases:** MongoDB, MariaDB, MySQL, PostgreSQL
-* **Ecosystems & Tools:** ERPNext, Git, Docker, Linux, PWA Integration
+<sub><b>Also:</b> Frappe Framework  •  REST APIs</sub>
+
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mariadb,mysql,postgres&theme=dark" alt="mongodb,mariadb,mysql,postgres"/>
+🧰 Ecosystems & Tools
+<img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" alt="git,docker,linux"/>
+
+<sub><b>Also:</b> ERPNext  •  PWA Integration</sub>
