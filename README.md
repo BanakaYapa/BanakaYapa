@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-* 🚀 **Associate Software Engineer** specializing in Node.js, TypeScript & system architecture
+* 💻 **Associate Software Engineer** specializing in Node.js, TypeScript & system architecture
 * ⚙️ Focused on **Frappe Framework, ERPNext**, and building production-hardened APIs
 * 🗄️ Building resilient web apps & managing databases using **MongoDB, MariaDB & PostgreSQL**
 * 🌐 Experience with **Progressive Web Apps (PWAs)**, database migrations, & security middleware
@@ -14,4 +14,4 @@
 
 <br><br>
 
-<h2>🛠️ Tech Stack & Tools</h2> <h3>👨‍💻 Languages</h3> <p> <img src="https://skillicons.dev/icons?i=ts,js,py&theme=dark" alt="ts,js,py"/> </p> <h3>⚙️ Backend & Frameworks</h3> <p> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="nodejs,express"/> </p> <p><sub><b>Also:</b> Frappe Framework &nbsp;•&nbsp; REST APIs</sub></p> <h3>🗄️ Databases</h3> <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="mongodb,mysql,postgres"/> </p> <p><sub><b>Also:</b> MariaDB</sub></p> <h3>🧰 Ecosystems & Tools</h3> <p> <img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" alt="git,docker,linux"/> </p> <p><sub><b>Also:</b> ERPNext &nbsp;•&nbsp; PWA Integration</sub></p>
+<h2>🛠️ Tech Stack & Tools</h2> <h3>👨‍💻 Languages</h3> <p> <img src="https://skillicons.dev/icons?i=ts,js,py&theme=darkjava&theme=dark" alt="ts,js,py,java"/> </p> <h3>⚙️ Backend & Frameworks</h3> <p> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="nodejs,express"/> </p> <p><sub><b>Also:</b> Frappe Framework &nbsp;•&nbsp; REST APIs</sub></p> <h3>🗄️ Databases</h3> <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="mongodb,mysql,postgres"/> </p> <p><sub><b>Also:</b> MariaDB</sub></p> <h3>🧰 Ecosystems & Tools</h3> <p> <img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" alt="git,docker,linux"/> </p> <p><sub><b>Also:</b> ERPNext &nbsp;•&nbsp; PWA Integration</sub></p>
