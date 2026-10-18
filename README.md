@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" alt="ts,js,py,java"/>
 </p> 
 <h3>⚙️ Backend & Frameworks</h3> 
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="nodejs,express"/> </p> <p><sub><b>Also:</b> Frappe Framework &nbsp;•&nbsp; REST APIs</sub></p> 
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="nodejs,express"/> </p> <p><img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe"/></p> <p><sub><b>Also:</b> REST APIs</sub></p> 
 <h3>🗄️ Databases</h3> 
 <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="mongodb,mysql"/> </p> <p><sub><b>Also:</b> MariaDB</sub></p> 
 <h3>🧰 Ecosystems & Tools</h3> 
