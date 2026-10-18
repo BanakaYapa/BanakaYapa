@@ -22,6 +22,6 @@
 <h3>⚙️ Backend & Frameworks</h3> 
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="nodejs,express"/> </p> <p><sub><b>Also:</b> Frappe Framework &nbsp;•&nbsp; REST APIs</sub></p> 
 <h3>🗄️ Databases</h3> 
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="mongodb,mysql,postgres"/> </p> <p><sub><b>Also:</b> MariaDB</sub></p> 
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="mongodb,mysql"/> </p> <p><sub><b>Also:</b> MariaDB</sub></p> 
 <h3>🧰 Ecosystems & Tools</h3> 
 <p> <img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" alt="git,docker,linux"/> </p> <p><sub><b>Also:</b> ERPNext &nbsp;•&nbsp; PWA Integration</sub></p>
